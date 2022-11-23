@@ -1,0 +1,3 @@
+#config-prod.yml
+config:
+  info: "master branch,spring-cloud/config-prod.yml version=1"
